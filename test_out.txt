@@ -1,0 +1,8 @@
+
+ðŸš€ ESP32 IDE Server running at:
+   Local:   http://localhost:3456
+   Network: http://100.84.211.99:3456
+   Network: http://192.168.0.231:3456
+
+ðŸ“± Buka URL ini di HP kamu untuk pakai ESP32 IDE!
+

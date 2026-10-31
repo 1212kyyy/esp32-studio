@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ESP32 Studio</string>
+    <string name="title_activity_main">ESP32 Studio</string>
+    <string name="package_name">com.esp32.studio</string>
+    <string name="custom_url_scheme">com.esp32.studio</string>
+</resources>

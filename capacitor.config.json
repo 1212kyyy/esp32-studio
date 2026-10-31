@@ -1,0 +1,10 @@
+{
+  "appId": "com.esp32.studio",
+  "appName": "ESP32 Studio",
+  "webDir": "public",
+  "server": {
+    "cleartext": true,
+    "androidScheme": "http"
+  }
+}
+
