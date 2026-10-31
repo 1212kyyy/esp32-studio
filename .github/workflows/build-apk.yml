@@ -27,9 +27,6 @@ jobs:
           distribution: 'temurin'
           java-version: '21'
 
-      - name: Setup Android SDK
-        uses: android-actions/setup-android@v3
-
       - name: Sync Capacitor Android
         run: |
           npx cap sync android
@@ -49,4 +46,5 @@ jobs:
           name: esp32-studio-debug-apk
           path: android/app/build/outputs/apk/debug/app-debug.apk
           retention-days: 14
+
 
